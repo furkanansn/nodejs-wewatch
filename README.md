@@ -21,7 +21,7 @@ We Watch is a social application that allows users to watch movies together at t
     
     ```bash
     
-    `cd cinemate` 
+    `cd nodejs-wewatch` 
     ```
 3.  Install dependencies:
     
